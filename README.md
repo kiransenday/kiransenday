@@ -1,6 +1,6 @@
 ![logo](https://github.com/kiransenday/kiransenday/blob/main/Java%20Full%20Stack%20Developer.png)
 <h1 align="center">Hi 👋, I'm Kiran Senday</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate java full stack developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiransenday&label=Profile%20views&color=0e75b6&style=flat" alt="kiransenday" /> </p>
 
