@@ -1,3 +1,4 @@
+![logo](https://github.com/kiransenday/kiransenday/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Kiran Senday</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
